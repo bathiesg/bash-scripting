@@ -1,6 +1,6 @@
 # bash-scripting
-scripts para automatizar algunas tareas
+Scripts para automatizar algunas tareas
  
-A veces hacemos unes tareas tantas veces que necessitamos automatizarlas para ganar tiempo.
+A veces hacemos unas tareas tantas veces que necesitamos automatizarlas para ganar tiempo.
 
-Aqui se recopilaran scripts que nos ayudaràn a tal proposito
+Aquí se recopilaran scripts que nos ayudaran a tal propósito
